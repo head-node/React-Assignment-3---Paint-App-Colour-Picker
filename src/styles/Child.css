@@ -16,3 +16,17 @@
     color: white;
     text-align: center;
 }
+.btn-blue {
+    background: rgb(34, 193, 195);
+    color: black;
+}
+
+.btn-orange {
+    background: rgb(221, 112, 18);
+    color: black;
+}
+
+.btn-green {
+    background: rgb(44, 209, 88);
+    color: black;
+}

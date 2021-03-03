@@ -1,7 +1,7 @@
 html, body {
     height: 100%;
     background-color: #3c415e;
-}
+} 
 
 #master {
     height: 75%;
@@ -50,4 +50,8 @@ button {
 .btn-green {
     background: rgb(44, 209, 88);
     color: black;
+}
+.row{
+    display: flex; 
+    justify-content: space-around;
 }
