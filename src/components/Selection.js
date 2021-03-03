@@ -14,10 +14,12 @@ const Selection=(props)=>{
   };
    
 
-    return (
+    return ( 
+      <>
     <div className="fix-box" style={currBg} onClick={applyColor} >
         <h2 className="subheading" >{props.heading}</h2>
-    </div>
+    </div> 
+    </>
 )
     }
 
